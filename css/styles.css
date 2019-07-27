@@ -1,0 +1,37 @@
+h1 { text-align: center;}
+
+
+.cardparent {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card { text-align: center;
+    display:inline-block;
+border:none;}
+
+.mycards {
+    height: 100px;
+    width: 100px;
+}
+
+.footer { background-color: black;
+height: 150px;
+text-align: center;
+color: white;
+}
+ul {
+    display: inline-block;
+}
+.carousel-text {position: absolute;
+top:0;
+left:0;
+right:0;
+bottom:0;
+text-align: left;
+padding: 50px;}
+
+.hero-text {
+    width: 400px;
+}
+
