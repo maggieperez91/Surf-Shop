@@ -20,9 +20,7 @@ height: 150px;
 text-align: center;
 color: white;
 }
-ul {
-    display: inline-block;
-}
+
 .carousel-text {position: absolute;
 top:0;
 left:0;
